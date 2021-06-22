@@ -1,0 +1,29 @@
+h1{
+    background: black;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 5px;
+  
+}
+
+h2{
+    background: rebeccapurple;
+    color: white;
+    font-family: sans-serif;
+    font-style: italic;
+    text-align: center;
+    padding: 5px;
+    font-weight: lighter;
+    
+}
+
+h3{
+    background: lightblue;
+    color: darkblue;
+    font-family: sans-serif;
+    text-align: right;
+    text-decoration: underline;
+    padding: 5px;
+   
+}
+
